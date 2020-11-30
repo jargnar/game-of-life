@@ -1,7 +1,7 @@
 <script>
   export const name = 'GAME OF LIFE';
 
-	const NUM_CELL_COLS = 100;
+  const NUM_CELL_COLS = 100;
   const NUM_CELL_ROWS = 100;
   
   const ALIVE = 'lime';
